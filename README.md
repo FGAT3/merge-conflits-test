@@ -1,3 +1,3 @@
-# merge-conflits-test
+REMOTE
 
 J'aime les crêpes !
