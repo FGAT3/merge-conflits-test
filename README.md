@@ -1,3 +1,3 @@
 # merge-conflits-test
 
-J'aime les crèpes !
+J'aime les crêpes !
